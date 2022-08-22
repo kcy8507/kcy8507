@@ -4,6 +4,7 @@
 )
 ### Hi there 👋
 I'm a web publisher and I want to become a frontend developer.<br>
+🐥https://kimchaeyeon.dothome.co.kr🐥<br>
 🐥https://velog.io/@kcy8507🐥
 
 ### ✨My Design & Develop Stack✨
