@@ -1,10 +1,11 @@
 <div align="center">
 
 ### Hi there 👋
+I'm a web publisher and I want to become a frontend developer.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFA397&title_bg=%23523CFF&icon=github.svg&icon_color=%23FFA9A9&title=hits&edge_flat=false)](https://github.com/kcy8507)
 
 ### ✨My Design & Develop Stack✨
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFA397&title_bg=%23523CFF&icon=github.svg&icon_color=%23FFA9A9&title=hits&edge_flat=false)](https://github.com/kcy8507)<br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
