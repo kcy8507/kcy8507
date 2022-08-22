@@ -15,8 +15,13 @@
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+  <br><br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcy8507&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br>
+  <br><br>
+  
+### ✨My Git Stats✨
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcy8507)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
