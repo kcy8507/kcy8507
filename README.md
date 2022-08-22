@@ -24,7 +24,7 @@ I'm a web publisher and I want to become a frontend developer.
   <br>
   
   
-  ![kcy8507 profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+  ![kcy8507 profile](http://mazandi.herokuapp.com/api?handle={kcy8507}&theme=warm)
 ### ✨My Git Stats✨
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcy8507)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkcy8507%2Fhit-counter&count_bg=%2362E15E&title_bg=%23C6C6C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
