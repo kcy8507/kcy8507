@@ -20,7 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcy8507&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <br><br>
-  
 ### ✨My Git Stats✨
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcy8507)](https://github.com/anuraghazra/github-readme-stats)
 
