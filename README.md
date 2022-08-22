@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 
 <br><br>
-[![Chaeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/kcy8507)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcy8507)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kcy8507/kcy8507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
